@@ -933,7 +933,7 @@ const file_transaction_proto_rawDesc = "" +
 	"\x0eencrypted_data\x18\f \x01(\fR\rencryptedData\x122\n" +
 	"\x15minimum_value_promise\x18\r \x01(\x04R\x13minimumValuePromise\x125\n" +
 	"\vrange_proof\x18\x0e \x01(\v2\x14.tari.rpc.RangeProofR\n" +
-	"rangeProofB4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"rangeProofB=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_transaction_proto_rawDescOnce sync.Once

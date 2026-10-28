@@ -718,7 +718,7 @@ const file_block_proto_rawDesc = "" +
 	"\x10NewBlockTemplate\x128\n" +
 	"\x06header\x18\x01 \x01(\v2 .tari.rpc.NewBlockHeaderTemplateR\x06header\x12+\n" +
 	"\x04body\x18\x02 \x01(\v2\x17.tari.rpc.AggregateBodyR\x04body\x12+\n" +
-	"\x12is_mempool_in_sync\x18\x03 \x01(\bR\x0fisMempoolInSyncB4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"\x12is_mempool_in_sync\x18\x03 \x01(\bR\x0fisMempoolInSyncB=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_block_proto_rawDescOnce sync.Once

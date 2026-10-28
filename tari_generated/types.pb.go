@@ -1239,7 +1239,7 @@ const file_types_proto_rawDesc = "" +
 	"\x1aCODE_TEMPLATE_REGISTRATION\x10\x04*:\n" +
 	"\x0eRangeProofType\x12\x14\n" +
 	"\x10BULLETPROOF_PLUS\x10\x00\x12\x12\n" +
-	"\x0eREVEALED_VALUE\x10\x01B4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"\x0eREVEALED_VALUE\x10\x01B=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_types_proto_rawDescOnce sync.Once

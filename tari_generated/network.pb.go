@@ -724,7 +724,7 @@ const file_network_proto_rawDesc = "" +
 	"\n" +
 	"\x06Online\x10\x01\x12\f\n" +
 	"\bDegraded\x10\x02\x12\v\n" +
-	"\aOffline\x10\x03B4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"\aOffline\x10\x03B=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_network_proto_rawDescOnce sync.Once
