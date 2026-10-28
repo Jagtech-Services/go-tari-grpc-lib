@@ -820,7 +820,7 @@ const file_sidechain_types_proto_rawDesc = "" +
 	"\tBuildInfo\x12\x19\n" +
 	"\brepo_url\x18\x01 \x01(\tR\arepoUrl\x12\x1f\n" +
 	"\vcommit_hash\x18\x02 \x01(\fR\n" +
-	"commitHashB4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"commitHashB=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_sidechain_types_proto_rawDescOnce sync.Once

@@ -7605,7 +7605,7 @@ const file_wallet_proto_rawDesc = "" +
 	"\x12ScanAndImportUtxos\x12#.tari.rpc.ScanAndImportUtxosRequest\x1a$.tari.rpc.ScanAndImportUtxosResponse\x12Y\n" +
 	"\x10DebugTransaction\x12!.tari.rpc.DebugTransactionRequest\x1a\".tari.rpc.DebugTransactionResponse\x12b\n" +
 	"\x13ValidateTransaction\x12$.tari.rpc.ValidateTransactionRequest\x1a%.tari.rpc.ValidateTransactionResponse\x12V\n" +
-	"\x0fValidateOutputs\x12 .tari.rpc.ValidateOutputsRequest\x1a!.tari.rpc.ValidateOutputsResponseB4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"\x0fValidateOutputs\x12 .tari.rpc.ValidateOutputsRequest\x1a!.tari.rpc.ValidateOutputsResponseB=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_wallet_proto_rawDescOnce sync.Once

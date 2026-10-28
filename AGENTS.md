@@ -9,7 +9,7 @@ Instructions for AI coding agents (OpenCode, Claude Code, or any `agents.md`-com
 ## Project
 
 - **What this repo is:** GRPC wrapper/client library for the Tari network core node/wallet/base-layer gRPC interfaces, code generated from Tari core's protobuf definitions plus a hand-written wrapper layer.
-- **Module path:** `github.com/Snipa22/go-tari-grpc-lib/v3`
+- **Module path:** `github.com/Jagtech-Services/go-tari-grpc-lib/v3`
 - **Depends on:** none within the ecosystem (this is the base layer everything else builds on)
 
 ## Commands

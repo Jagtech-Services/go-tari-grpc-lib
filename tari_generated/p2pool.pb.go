@@ -355,7 +355,7 @@ const file_p2pool_proto_rawDesc = "" +
 	"\n" +
 	"GetTipInfo\x12\x1b.tari.rpc.GetTipInfoRequest\x1a\x1c.tari.rpc.GetTipInfoResponse\x12J\n" +
 	"\vGetNewBlock\x12\x1c.tari.rpc.GetNewBlockRequest\x1a\x1d.tari.rpc.GetNewBlockResponse\x12J\n" +
-	"\vSubmitBlock\x12\x1c.tari.rpc.SubmitBlockRequest\x1a\x1d.tari.rpc.SubmitBlockResponseB4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"\vSubmitBlock\x12\x1c.tari.rpc.SubmitBlockRequest\x1a\x1d.tari.rpc.SubmitBlockResponseB=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_p2pool_proto_rawDescOnce sync.Once

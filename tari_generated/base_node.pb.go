@@ -5038,7 +5038,7 @@ const file_base_node_proto_rawDesc = "" +
 	"\x11GetSideChainUtxos\x12\".tari.rpc.GetSideChainUtxosRequest\x1a#.tari.rpc.GetSideChainUtxosResponse0\x01\x12V\n" +
 	"\x0fGetNetworkState\x12 .tari.rpc.GetNetworkStateRequest\x1a!.tari.rpc.GetNetworkStateResponse\x12i\n" +
 	"\x17SearchPaymentReferences\x12(.tari.rpc.SearchPaymentReferencesRequest\x1a\".tari.rpc.PaymentReferenceResponse0\x01\x12q\n" +
-	"$SearchPaymentReferencesViaOutputHash\x12#.tari.rpc.FetchMatchingUtxosRequest\x1a\".tari.rpc.PaymentReferenceResponse0\x01B4Z2github.com/Snipa22/go-tari-grpc-lib/tari_generatedb\x06proto3"
+	"$SearchPaymentReferencesViaOutputHash\x12#.tari.rpc.FetchMatchingUtxosRequest\x1a\".tari.rpc.PaymentReferenceResponse0\x01B=Z;github.com/Jagtech-Services/go-tari-grpc-lib/tari_generatedb\x06proto3"
 
 var (
 	file_base_node_proto_rawDescOnce sync.Once
